@@ -1,0 +1,19 @@
+.light {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 2fr));
+    grid-gap: 1rem;
+    grid-auto-rows: 200px;
+    min-height: 100%;
+    max-height: max-content;
+    padding: 20px;
+}
+
+.dark {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 2fr));
+    grid-gap: 1rem;
+    grid-auto-rows: 200px;
+    min-height: 100%;
+    max-height: max-content;
+    padding: 20px;
+}

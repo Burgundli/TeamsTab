@@ -1,0 +1,168 @@
+ T15-0033-B Algoritmy a dátové štruktúry - ZS 2021/2022 - TF
+ T15-0054-I Aplikácia OS Linux vo fyzike a technike - ZS 2021/2022 - TF
+ T15-0034-B Aplikačné programovanie - ZS 2021/2022 - TF
+ T15-0035-I Aplikovaná elektronika - LS 2021/2022 - TF
+ T15-0055-I Aplikovaná fyzika - ZS 2021/2022 - TF
+ T15-0036-B Automatizácia - ZS 2021/2022 - TF
+ T15-0037-I Automatizácia technologických procesov - LS 2021/2022 - TF
+ T15-0009-B Automobilové spaľovacie motory - ZS 2021/2022 - TF
+ T15-0009-B Automobilové spaľovacie motory - LS 2021/2022 - TF
+ T15-0104-I Bezpečnosť technických systémov - LS 2021/2022 - TF
+ T15-0113-I Bioenergetika - ZS 2021/2022 - TF
+ T15-0113-I Bioenergetika - LS 2021/2022 - TF
+ T15-0056-B Biofyzika - ZS 2021/2022 - TF
+ T15-0057-B Biofyzika a fyzikálne vlastnosti potravín - ZS 2021/2022 - TF
+ T15-0141-I Bioinžinierstvo - ZS 2021/2022 - TF
+ T15-0105-I CAD metódy v technickej praxi - ZS 2021/2022 - TF
+ T15-0075-B CAx technológie - ZS 2021/2022 - TF
+ T15-0155-I Časti strojov - ZS 2021/2022 - TF
+ T15-0038-B Číslicová elektronika - ZS 2021/2022 - TF
+ T15-0076-I Diagnostika strojov a zariadení - ZS 2021/2022 - TF
+ T15-0001-I Diplomová prax - LS 2021/2022 - TF
+ T15-0010-I Dopravná technika - LS 2021/2022 - TF
+ T15-0011-B Dopravné a manipulačné zariadenia - ZS 2021/2022 - TF
+ T15-0012-B Elektrické príslušenstvo vozidiel - ZS 2021/2022 - TF
+ T15-0039-B Elektroenergetika - LS 2021/2022 - TF
+ T15-0040-B Elektronika - LS 2021/2022 - TF
+ T15-0041-I Elektrotechnické predpisy - ZS 2021/2022 - TF
+ T15-0042-B Elektrotechnika - LS 2021/2022 - TF
+ T15-0106-I Energetický audit - ZS 2021/2022 - TF
+ T15-0106-I Energetický audit - LS 2021/2022 - TF
+ T15-0058-I Environmentálna fyzika a ekoenergetika - LS 2021/2022 - TF
+ T15-0013-I Environmentálna technika - ZS 2021/2022 - TF
+ T15-0014-I Environmentálne technológie - LS 2021/2022 - TF
+ T15-0114-I Ergonómia - LS 2021/2022 - TF
+ T15-0077-I Experimentálne metódy vo výrobných technológiách - LS 2021/2022 - TF
+ T15-0059-B Fyzikálne laboratórne techniky - ZS 2021/2022 - TF
+ T15-0059-B Fyzikálne laboratórne techniky - LS 2021/2022 - TF
+ T15-0060-B Fyzikálne princípy v ekoenergetike - LS 2021/2022 - TF
+ T15-0043-B Informačné a databázové systémy - ZS 2021/2022 - TF
+ T15-0043-B Informačné a databázové systémy - LS 2021/2022 - TF
+ T15-0044-I Informačné systémy - ZS 2021/2022 - TF
+ T15-0078-B Integrované systémy riadenia - LS 2021/2022 - TF
+ T15-0061-I Inžinierska ekológia - ZS 2021/2022 - TF
+ T15-0079-B Inžinierstvo kvality produkcie (Bc) - LS 2021/2022 - TF
+ T15-0080-I Inžinierstvo kvality produkcie (Ing) - ZS 2021/2022 - TF
+ T15-0081-I Komplexné manažérstvo kvality - ZS 2021/2022 - TF
+ T15-0016-I Komunálna technika pre údržbu a čistenie - ZS 2021/2022 - TF
+ T15-0017-B Konštrukcia a prevádzka vozidiel - ZS 2021/2022 - TF
+ T15-0082-B Konštrukcia a riadenie vozidiel - ZS 2021/2022 - TF
+ T15-0115-B Konštrukcia samohybných strojov - ZS 2021/2022 - TF
+ T15-0083-I Konštrukčné materiály - ZS 2021/2022 - TF
+ T15-0083-I Konštrukčné materiály - LS 2021/2022 - TF
+ T15-0107-B Konštruktívna geometria - ZS 2021/2022 - TF
+ T15-0162-B Kurz efektívneho využívania obnoviteľných zdrojov energie - LS 2021/2022 - TF
+ T15-0159-I Kurz kvality chovateľského prostredia - LS 2021/2022 - TF
+ T15-0160-I Kurz presného poľnohospodárstva - LS 2021/2022 - TF
+ T15-0161-B Kurz starostlivosti o poľnohospodársku a dopravnú techniku - LS 2021/2022 - TF
+ T15-0018-I Legislatíva v cestnej doprave - LS 2021/2022 - TF
+ T15-0019-B Legislatíva v odpadovom hospodárstve - ZS 2021/2022 - TF
+ T15-0084-B Manažérstvo rizika Bc - LS 2021/2022 - TF
+ T15-0085-I Manažérstvo rizika Ing - ZS 2021/2022 - TF
+ T15-0116-I Manažérstvo technického rozvoja - LS 2021/2022 - TF
+ T15-0086-I Manažérstvo údržby a opráv - ZS 2021/2022 - TF
+ T15-0086-I Manažérstvo údržby a opráv - LS 2021/2022 - TF
+ T15-0020-I Manipulačná technika - ZS 2021/2022 - TF
+ T15-0087-B Materiály a technológie - ZS 2021/2022 - TF
+ T15-0118-B Mechanizácia poľnohospodárskej výroby - ZS 2021/2022 - TF
+ T15-0119-B Mechanizácia rastlinnej výroby - ZS 2021/2022 - TF
+ T15-0119-B Mechanizácia rastlinnej výroby - LS 2021/2022 - TF
+ T15-0120-B Mechanizácia v záhradníctve - ZS 2021/2022 - TF
+ T15-0121-I Mechanizácia vinárstva - ZS 2021/2022 - TF
+ T15-0142-B Mechanizácia živočíšnej výroby - ZS 2021/2022 - TF
+ T15-0021-I Mechanizmy komunálnej a manipulačnej techniky - LS 2021/2022 - TF
+ T15-0022-B Mechanizmy motorových vozidiel - ZS 2021/2022 - TF
+ T15-0022-B Mechanizmy motorových vozidiel - LS 2021/2022 - TF
+ T15-0122-B Metodika a tvorba odborného textu - LS 2021/2022 - TF
+ T15-0062-I Metodika experimentu - ZS 2021/2022 - TF
+ T15-0088-I Metrológia v riadení kvality - ZS 2021/2022 - TF
+ T15-0045-I Mikrokontroléry v riadiacej technike - ZS 2021/2022 - TF
+ T15-0046-I Moderné komunikačné prostriedky - ZS 2021/2022 - TF
+ T15-0023-B Motory na alternatívne palivá - ZS 2021/2022 - TF
+ T15-0158-I Nástroje kvality a manažérstva rizika - LS 2021/2022 - TF
+ T15-0089-B Náuka o materiáloch - LS 2021/2022 - TF
+ T15-0153-I Obchodovanie s technikou - LS 2021/2022 - TF
+ T15-0090-B Obrábanie a metrológia - LS 2021/2022 - TF
+ T15-0002-B Odborná prax - LS 2021/2022 - TF
+ T15-0091-B Opravy strojových skupín - ZS 2021/2022 - TF
+ T15-0092-I Počítačom podporovaná výroba - LS 2021/2022 - TF
+ T15-0109-B Počítačová grafika v technickej praxi - ZS 2021/2022 - TF
+ T15-0109-B Počítačová grafika v technickej praxi - LS 2021/2022 - TF
+ T15-0064-I Počítačové spracovanie obrazu - LS 2021/2022 - TF
+ T15-0157-I Poľnohospodárska technika - ZS 2021/2022 - TF
+ T15-0157-I Poľnohospodárska technika - LS 2021/2022 - TF
+ T15-0156-I Polymérne a kompozitné materiály a ich spracovanie - LS 2021/2022 - TF
+ T15-0144-I Potravinárska technika - ZS 2021/2022 - TF
+ T15-0123-I Presné poľnohospodárstvo - LS 2021/2022 - TF
+ T15-0003-B Prevádzková prax - LS 2021/2022 - TF
+ T15-0110-I Prevádzkovanie a bezpečnosť technických zariadení - ZS 2021/2022 - TF
+ T15-0145-B Procesná technika - ZS 2021/2022 - TF
+ T15-0047-I Programovanie 1 - LS 2021/2022 - TF
+ T15-0048-I Programovanie 2 - ZS 2021/2022 - TF
+ T15-0070-I Progresívne metódy konštruovania - ZS 2021/2022 - TF
+ T15-0070-I Progresívne metódy konštruovania - LS 2021/2022 - TF
+ T15-0093-I Progresívne výrobné technológie - ZS 2021/2022 - TF
+ T15-0124-I Projektovanie výrobných systémov - ZS 2021/2022 - TF
+ T15-0071-B Pružnosť a pevnosť - LS 2021/2022 - TF
+ T15-0125-I Regionálna bioenergetika - ZS 2021/2022 - TF
+ T15-0125-I Regionálna bioenergetika - LS 2021/2022 - TF
+ T15-0126-B Riadenie a obsluha obilných kombajnov - LS 2021/2022 - TF
+ T15-0127-B Riadenie a organizácia výrobných procesov - LS 2021/2022 - TF
+ T15-0128-B Riadenie a plánovanie výroby - LS 2021/2022 - TF
+ T15-0129-I Riadenie prevádzky strojov - ZS 2021/2022 - TF
+ T15-0094-B Riadenie projektov - LS 2021/2022 - TF
+ T15-0049-B Roboty a manipulátory - ZS 2021/2022 - TF
+ T15-0004-B Seminár k bakalárskej práci - LS 2021/2022 - TF
+ T15-0005-I Seminár k diplomovej práci - LS 2021/2022 - TF
+ T15-0024-I Servisná logistika - LS 2021/2022 - TF
+ T15-0095-I Simulácia výrobných procesov - LS 2021/2022 - TF
+ T15-0025-I Sklady a skladové hospodárstvo - ZS 2021/2022 - TF
+ T15-0096-I Spoľahlivosť technických systémov - ZS 2021/2022 - TF
+ T15-0146-B Stacionárne dopravné zariadenia - ZS 2021/2022 - TF
+ T15-0111-B Stavebná mechanika a stavebné materiály - ZS 2021/2022 - TF
+ T15-0130-B Stavebné stroje - ZS 2021/2022 - TF
+ T15-0130-B Stavebné stroje - LS 2021/2022 - TF
+ T15-0097-B Strojárska technológia - ZS 2021/2022 - TF
+ T15-0006-B Štátna bakalárska skúška - LS 2021/2022 - TF
+ T15-0007-I Štátna inžinierska skúška - LS 2021/2022 - TF
+ T15-0065-B Technická fyzika - ZS 2021/2022 - TF
+ T15-0050-I Technická kybernetika - ZS 2021/2022 - TF
+ T15-0072-B Technická mechanika - ZS 2021/2022 - TF
+ T15-0051-B Technické meranie - ZS 2021/2022 - TF
+ T15-0147-B Technika a technológie spracovania odpadov - LS 2021/2022 - TF
+ T15-0154-I Technika a vlastnosti mobilných zariadení - LS 2021/2022 - TF
+ T15-0148-I Technika pre chov zvierat - ZS 2021/2022 - TF
+ T15-0131-I Technika pre parkové úpravy - ZS 2021/2022 - TF
+ T15-0132-I Technika pre pestovanie plodín - ZS 2021/2022 - TF
+ T15-0133-I Technika pre pozberové technológie - LS 2021/2022 - TF
+ T15-0134-B Technika pre vinohradníctvo a vinárstvo - ZS 2021/2022 - TF
+ T15-0134-B Technika pre vinohradníctvo a vinárstvo - LS 2021/2022 - TF
+ T15-0135-B Technika pre výrobu a spracovanie biomasy - ZS 2021/2022 - TF
+ T15-0136-I Technika pre zavlažovanie a odvodňovanie - ZS 2021/2022 - TF
+ T15-0137-I Technika pre zber poľných plodín - LS 2021/2022 - TF
+ T15-0138-B Technika v agrokomplexe - ZS 2021/2022 - TF
+ T15-0139-B Technika v biosystémoch - ZS 2021/2022 - TF
+ T15-0099-B Technologická príprava výroby - ZS 2021/2022 - TF
+ T15-0149-B Technológie v chove zvierat - LS 2021/2022 - TF
+ T15-0152-B Technológie výroby a montáže automobilov - LS 2021/2022 - TF
+ T15-0026-B Tekutinové mechanizmy - ZS 2021/2022 - TF
+ T15-0066-B Teoretické základy technických disciplín - ZS 2021/2022 - TF
+ T15-0027-B Teória a konštrukcia traktorov - ZS 2021/2022 - TF
+ T15-0028-I Teória manipulačnej techniky - ZS 2021/2022 - TF
+ T15-0029-B Teplotechnika a hydrotechnika - ZS 2021/2022 - TF
+ T15-0029-B Teplotechnika a hydrotechnika - LS 2021/2022 - TF
+ T15-0100-I Tribológia a tribotechnika - ZS 2021/2022 - TF
+ T15-0052-B Úvod do programovania - ZS 2021/2022 - TF
+ T15-0052-B Úvod do programovania - LS 2021/2022 - TF
+ T15-0008-B Úvod do štúdia - ZS 2021/2022 - TF
+ T15-0067-B Úvod do technickej fyziky - ZS 2021/2022 - TF
+ T15-0067-B Úvod do technickej fyziky - LS 2021/2022 - TF
+ T15-0030-I Vlastnosti motorových vozidiel - ZS 2021/2022 - TF
+ T15-0101-B Výrobné stroje a zariadenia - ZS 2021/2022 - TF
+ T15-0140-B Výrobné systémy pre rastlinnú výrobu - ZS 2021/2022 - TF
+ T15-0102-I Výrobné technológie a montáž - ZS 2021/2022 - TF
+ T15-0031-I Využitie tepelných procesov - ZS 2021/2022 - TF
+ T15-0053-B Základy informatiky - ZS 2021/2022 - TF
+ T15-0073-B Základy konštruovania - ZS 2021/2022 - TF
+ T15-0032-B Základy logistiky - LS 2021/2022 - TF
+ T15-0103-B Základy strojárskych technológií - ZS 2021/2022 - TF
