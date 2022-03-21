@@ -1,0 +1,39 @@
+{
+    "solution": {
+        "teamsAppTenantId": "a53a8fcb-c53a-49a0-bc99-b1e851b6266b",
+        "subscriptionId": "f93f0517-923f-4fa5-8399-8d5ed1b60f54",
+        "subscriptionName": "Azure for Students",
+        "tenantId": "55801aee-cccb-46c5-880c-d6f6c4603f42",
+        "needCreateResourceGroup": false,
+        "resourceGroupName": "SPUTeams",
+        "location": "North Europe",
+        "resourceNameSuffix": "866af6",
+        "provisionSucceeded": true
+    },
+    "fx-resource-appstudio": {
+        "tenantId": "a53a8fcb-c53a-49a0-bc99-b1e851b6266b",
+        "teamsAppId": "16893cf1-ae4c-4cd8-809e-294071951f82",
+        "teamsAppUpdatedAt": 1647893008106
+    },
+    "fx-resource-identity": {
+        "identityName": "newtesttabdev7f8d58",
+        "identityResourceId": "/subscriptions/f93f0517-923f-4fa5-8399-8d5ed1b60f54/resourceGroups/SPUTeams/providers/Microsoft.ManagedIdentity/userAssignedIdentities/newtesttabdev7f8d58",
+        "identityClientId": "fcec566b-7a64-4f1e-93b0-52341c13495e"
+    },
+    "fx-resource-aad-app-for-teams": {
+        "clientId": "494017a6-c54f-4378-8696-581df770dda1",
+        "clientSecret": "{{fx-resource-aad-app-for-teams.clientSecret}}",
+        "objectId": "5e0dbc7f-5a9e-44c2-8175-acae326238a2",
+        "oauth2PermissionScopeId": "b54cd81e-0b44-46a4-8fc3-c47becac2ce7",
+        "tenantId": "a53a8fcb-c53a-49a0-bc99-b1e851b6266b",
+        "oauthHost": "https://login.microsoftonline.com",
+        "oauthAuthority": "https://login.microsoftonline.com/a53a8fcb-c53a-49a0-bc99-b1e851b6266b",
+        "applicationIdUris": "api://newtesttabdev7f8d58tab.z16.web.core.windows.net/494017a6-c54f-4378-8696-581df770dda1"
+    },
+    "fx-resource-frontend-hosting": {
+        "domain": "newtesttabdev7f8d58tab.z16.web.core.windows.net",
+        "endpoint": "https://newtesttabdev7f8d58tab.z16.web.core.windows.net",
+        "indexPath": "/index.html#",
+        "storageResourceId": "/subscriptions/f93f0517-923f-4fa5-8399-8d5ed1b60f54/resourceGroups/SPUTeams/providers/Microsoft.Storage/storageAccounts/newtesttabdev7f8d58tab"
+    }
+}

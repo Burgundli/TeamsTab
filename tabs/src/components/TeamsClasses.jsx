@@ -36,6 +36,7 @@ export function TeamsClasses () {
 
     return (
         <>
+        <Button primary content="Authorize" disabled={loading} onClick={reload} />
             {!loading && data && !loadingP && dataP 
             &&(
                 data.descriptions.map((element, i) => {
